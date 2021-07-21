@@ -1,3 +1,5 @@
 test git
 
 qulification edit tty
+
+delete branches rule by jshaw
